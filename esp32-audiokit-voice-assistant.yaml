@@ -28,9 +28,9 @@ esphome:
 external_components:
   source:
     type: git
-    url: https://github.com/sehraf/esphome-components
+    url: https://github.com/cociweb/esphome-components
     ref: main
-  components: [ac101]
+  components: [es8388]
   refresh: 1s
 
 # Enable logging
